@@ -23,3 +23,10 @@ Besa a quien quieras en formato Embed o Mensaje.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
 - Si el usuario no tiene las TOPs aceptadas, no se fijaran los besos recibidos.
+### /act-snuggle (SFW)
+Acurrucate contigo mismo o con alguien mas.
+- Utiliza: `/act-snuggle tipo:<box,...>`.
+- Usa `usuario:<usuario>` si es necesario, ya que por ejemplo la accion de `box` no se utiliza la mencion.
+- Puedes dejar tu mensaje con `mensaje:<mensaje>`.
+- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
+- Es importante fijar el tipo de accion que usaras.
