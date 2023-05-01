@@ -30,3 +30,10 @@ Acurrucate contigo mismo o con alguien mas.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
 - Es importante fijar el tipo de accion que usaras.
+### /act-greets (SFW)
+Usa el comando para saludar a todos, a alguien, despedirce, etc.
+- Utiliza: `act-greets tipo:<normal,...>`.
+- La utilizacion de `usuario:<usuario>` es opcional, en algunos casos sera necesario.
+- Puedes dejar tu mensaje con `mensaje:<mensaje>`.
+- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
+- Es importante fijar el tipo de accion que usaras.
