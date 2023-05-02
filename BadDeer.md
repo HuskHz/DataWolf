@@ -2,38 +2,38 @@
 Ten toda la información que necesites sobre Bad Deer.
 
 # Comandos.
-- Todos los comandos son en Slash (/), donde deberas colocar / y seleccionar la aplicación Bad Deer de la acción que quieres.
-## Accion interaccion.
+- Todos los comandos son en Slash (/), donde deberás colocar / y seleccionar la aplicación Bad Deer de la acción que quieres.
+## Acción interacción.
 Comandos SFW y NSFW, donde podras usar en el canal que quieras.
 ### /act-hug (SFW)
 Abraza a la persona que quieras en formato Embed o Mensaje.
 - Utiliza: `/act-hug usuario:<usuario>`.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando esté activo, éste solo mandará el mensaje, sin necesidad de mención y sin mensaje de texto.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Si el usuario no tiene las TOPs aceptadas, no se fijarán los abrazos recibidos.
 ### /act-bang (SFW)
 Utiliza el comando para golpear/usar spray/abofetear a una persona.
 - Utiliza: `/act-bang tipo:<spray,...> usuario:<usuario>`.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Es importante fijar el tipo de accion que usaras.
 ### /act-kiss (SFW)
 Besa a quien quieras en formato Embed o Mensaje.
 - Utiliza: `/act-kiss usuario:<usuario>`.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
-- Si el usuario no tiene las TOPs aceptadas, no se fijaran los besos recibidos.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
+- Si el usuario no tiene las TOPs aceptadas, no se fijarán los besos recibidos.
 ### /act-snuggle (SFW)
 Acurrucate contigo mismo o con alguien mas.
 - Utiliza: `/act-snuggle tipo:<box,...>`.
-- Usa `usuario:<usuario>` si es necesario, ya que por ejemplo la accion de `box` no se utiliza la mencion.
+- Usa `usuario:<usuario>` si es necesario, ya que por ejemplo, la acción de `box` no se utiliza la mención.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
-- Es importante fijar el tipo de accion que usaras.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
+- Es importante fijár el tipo de acción que usarás.
 ### /act-greets (SFW)
 Usa el comando para saludar a todos, a alguien, despedirce, etc.
-- Utiliza: `act-greets tipo:<normal,...>`.
-- La utilizacion de `usuario:<usuario>` es opcional, en algunos casos sera necesario.
+- Utiliza: `/act-greets tipo:<normal,...>`.
+- La utilizacion de `usuario:<usuario>` es opcionál, en algunos casos será necesario.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
-- Es importante fijar el tipo de accion que usaras.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
+- Es importante fijár el tipo de acción que usarás.
