@@ -2,7 +2,7 @@
 Ten toda la información que necesites sobre Bad Deer.
 
 # Comandos.
-- Todos los comandos son en Slash (/), donde deberás colocar / y seleccionar la aplicación Bad Deer de la acción que quieres.
+- Todos los comandos son en [**Slash**](https://discord.com/blog/slash-commands-are-here) (/), donde deberás colocar / y seleccionar la aplicación Bad Deer de la acción que quieres.
 ## Acción interacción.
 Comandos SFW y NSFW, donde podras usar en el canal que quieras.
 ### /act-hug (SFW)
