@@ -43,3 +43,10 @@ Usa el comando para acariciar a alguien.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste solo cambiará el formato para todos los comandos de acción o interaccíon, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Si el usuario no tiene las TOPs aceptadas, no se fijarán las caricias recibidas.
+## útiles.
+### /avatar
+Mira tú avatar o el de alguien más.
+- Utiliza: `/avatar`
+- Usa `usuario:<usuario>` si quieres ver el avatar de alguien más, no lo uses si quieres ver el tuyo.
+### /servericon - <Cambiará>
+Mira el icono del servidor.
