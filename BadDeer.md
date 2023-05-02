@@ -9,8 +9,8 @@ Comandos SFW y NSFW, donde podras usar en el canal que quieras.
 Abraza a la persona que quieras en formato Embed o Mensaje.
 - Utiliza: `/act-hug usuario:<usuario>`.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
-- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiara el formato para todos los comandos de accion o interaccion, ya sea embed o mensaje. Cuando este activo, este solo mandara el mensaje, sin necesidad de mencion y sin mensaje de texto.
-- Si el usuario no tiene las TOPs aceptadas, no se fijaran los abrazos recibidos.
+- Cambia el formato con `embed:` y seleccionar el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando esté activo, éste solo mandará el mensaje, sin necesidad de mención y sin mensaje de texto.
+- Si el usuario no tiene las TOPs aceptadas, no se fijarán los abrazos recibidos.
 ### /act-bang (SFW)
 Utiliza el comando para golpear/usar spray/abofetear a una persona.
 - Utiliza: `/act-bang tipo:<spray,...> usuario:<usuario>`.
