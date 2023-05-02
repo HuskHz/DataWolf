@@ -37,3 +37,9 @@ Usa el comando para saludar a todos, a alguien, despedirce, etc.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Es importante fijár el tipo de acción que usarás.
+### /act-pat (SFW)
+Usa el comando para acariciar a alguien.
+- Utiliza: `/act-pat usuario:<usuario>`.
+- Puedes dejar tu mensaje con `mensaje:<mensaje>`.
+- Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste solo cambiará el formato para todos los comandos de acción o interaccíon, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
+- Si el usuario no tiene las TOPs aceptadas, no se fijarán las caricias recibidas.
