@@ -17,6 +17,7 @@ Utiliza el comando para golpear/usar spray/abofetear a una persona.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, este cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Es importante fijar el tipo de accion que usaras.
+- Disponibles en `tipo:`: `Spray`, `Bofetada`, `Golpe`, `Papel diario`.
 ### /act-kiss (SFW)
 Besa a quien quieras en formato Embed o Mensaje.
 - Utiliza: `/act-kiss usuario:<usuario>`.
@@ -30,6 +31,7 @@ Acurrucate contigo mismo o con alguien mas.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Es importante fijár el tipo de acción que usarás.
+- Disponibles en `tipo:`: `Dentro de una caja`, `Acurrucado, solo`, `Acurrucado con alguien`, `Acurrucado recostado con alguien`.
 ### /act-greets (SFW)
 Usa el comando para saludar a todos, a alguien, despedirce, etc.
 - Utiliza: `/act-greets tipo:<normal,...>`.
