@@ -39,7 +39,7 @@ Usa el comando para saludar a todos, a alguien, despedirce, etc.
 - Puedes dejar tu mensaje con `mensaje:<mensaje>`.
 - Cambia el formato con `embed:` y selecciona el Toggle cuando quieras, éste cambiará el formato para todos los comandos de acción o interacción, ya sea embed o mensaje. Cuando se encuentre activo, éste solo mandará el mensaje, sin necesidad de mención y sín mensaje de texto.
 - Es importante fijár el tipo de acción que usarás.
-- Disponibles en `tipo:`: `Normal`, `1`, `Peculiar`, se añadiran más, como: Bye, Buenos Dias, etc.
+- Disponibles en `tipo:`: `Saludo común`, `Saludo con habla`, `Saludo peculiar`, se añadiran más, como: Bye, Buenos Dias, etc.
 ### /act-pat (SFW)
 Usa el comando para acariciar a alguien.
 - Utiliza: `/act-pat usuario:<usuario>`.
@@ -51,5 +51,8 @@ Usa el comando para acariciar a alguien.
 Mira tú avatar o el de alguien más.
 - Utiliza: `/avatar`
 - Usa `usuario:<usuario>` si quieres ver el avatar de alguien más, no lo uses si quieres ver el tuyo.
-### /servericon - <Cambiará>
-Mira el icono del servidor.
+### /server - <Cambiará>
+Ten la informacion que quieras del servidor.
+- Utiliza: `/server tipo:<info,...>.`
+- Es importante fijár el tipo de comando que quieres.
+- Disponibles en `tipo`: `Info del servidor`, `Icono del servidor`.
