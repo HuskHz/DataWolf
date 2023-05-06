@@ -51,7 +51,7 @@ Usa el comando para acariciar a alguien.
 Mira tú avatar o el de alguien más.
 - Utiliza: `/avatar`
 - Usa `usuario:<usuario>` si quieres ver el avatar de alguien más, no lo uses si quieres ver el tuyo.
-### /server - <Cambiará>
+### /server
 Ten la informacion que quieras del servidor.
 - Utiliza: `/server tipo:<info,...>.`
 - Es importante fijár el tipo de comando que quieres.
