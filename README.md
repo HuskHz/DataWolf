@@ -13,13 +13,13 @@ Para obtener información detallada sobre los comandos del robot, consulta el ar
 
 ## Creadores
 
-- Toddodesu (alias Todd)
-- Lumine (alias HuskHz)
+- @imtoddy (alias Todd)
+- @imlumine (alias HuskHz)
 
 ## Créditos
 
 Agradecemos a los siguientes usuarios por su ayuda en la contribución al desarrollo de DataWolf:
 
-- Mr.Fox, desarrollador de API, HunterBug, desarrollador de código.
-- Space, desarrollador de API, HunterBug.
-- Tigreal, artista de Bad Deer.
+- @imfox, desarrollador de API, HunterBug, desarrollador de código.
+- @imsirspace, desarrollador de API, HunterBug.
+- @tigrealp, artista de Bad Deer.
