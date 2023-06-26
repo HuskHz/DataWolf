@@ -18,7 +18,7 @@ Para obtener información detallada sobre los comandos del robot, consulta el ar
 
 ## Créditos
 
-Agradecemos a los siguientes usuarios por su ayuda en la contribución al desarrollo de DataWolf:
+Agradecemos a los siguientes usuarios por su ayuda en la contribución al desarrollo de Bad Deer:
 
 - @imfox, desarrollador de API, HunterBug, desarrollador de código.
 - @imsirspace, desarrollador de API, HunterBug.
