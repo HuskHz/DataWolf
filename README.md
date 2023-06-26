@@ -9,7 +9,7 @@ Bad Deer es un robot Furry Hispano de Discord diseñado para proporcionar un amb
 
 ## Archivo DataWolf
 
-Para obtener información detallada sobre los comandos del robot, consulta el archivo DataWolf en este repositorio.
+Para obtener información detallada sobre los comandos del robot, consulta el archivo BadDeer en este repositorio.
 
 ## Creadores
 
