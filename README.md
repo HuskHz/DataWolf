@@ -1,4 +1,4 @@
-# 🐾 Bad Deer 🐾
+# 🐾 Bad Deer 🐾 (pendiente a terminar)
 
 Bad Deer es un robot Furry Hispano de Discord diseñado para proporcionar un ambiente agradable en cualquier servidor Furry. Aquí tendrás información detallada sobre el robot, incluyendo todos los comandos y su respectiva información, así como datos sobre el robot.
 
